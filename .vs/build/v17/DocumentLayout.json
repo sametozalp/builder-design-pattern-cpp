@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Samet\\Desktop\\build\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{581759A5-FE0B-4862-93C7-752609899667}|build\\build.vcxproj|C:\\Users\\Samet\\Desktop\\build\\build\\Home.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{581759A5-FE0B-4862-93C7-752609899667}|build\\build.vcxproj|solutionrelative:build\\Home.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{581759A5-FE0B-4862-93C7-752609899667}|build\\build.vcxproj|C:\\Users\\Samet\\Desktop\\build\\build\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{581759A5-FE0B-4862-93C7-752609899667}|build\\build.vcxproj|solutionrelative:build\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Home.cpp",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\build\\build\\Home.cpp",
+              "RelativeDocumentMoniker": "build\\Home.cpp",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\build\\build\\Home.cpp",
+              "RelativeToolTip": "build\\Home.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T12:54:26.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\build\\build\\Main.cpp",
               "RelativeDocumentMoniker": "build\\Main.cpp",
               "ToolTip": "C:\\Users\\Samet\\Desktop\\build\\build\\Main.cpp",
               "RelativeToolTip": "build\\Main.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-21T12:38:10.99Z",
+              "WhenOpened": "2024-08-21T12:52:53.937Z",
               "EditorCaption": ""
             }
           ]
